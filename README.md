@@ -1,7 +1,6 @@
 <img aling='center' src="./assets/img/banner_delfos369.png">
 <br>
-<br>
-<br>
+
 
 # Bienvenidos a Delfos369
 
@@ -26,7 +25,7 @@ Desarrollamos soluciones que marcan la diferencia, eficientes, ágiles y modular
 - &nbsp; JAVA
 - &nbsp; AWS
 <br>
-<br>
+
 <h2>Conoce a nuestro equipo de trabajo 👨‍💻</h2>
 
 <h3> Hola 👋</h3> 
