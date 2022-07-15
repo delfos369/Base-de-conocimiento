@@ -1,4 +1,33 @@
-# Base-de-conocimiento
+<img aling='center' src="./assets/img/banner_delfos369.png">
+<br>
+<br>
+<br>
+
+# Bienvenidos a Delfos369
+
+
+<h2>¿Quiénes somos?</h2>
+
+Delfos369 es una empresa de desarrollo de software, nosotos utilizamos tecnologías disruptivas e innovadoras, para ayudarte a escalar tu negocio y reinventar tu organización.
+<br>
+<h2>¿Qué  hacemos?</h2>
+
+Desarrollamos soluciones que marcan la diferencia, eficientes, ágiles y modulares. Te ofrecemos calidad, con el objetivo de tener un impacto positivo en la productividad de tu operación y ayudando a reducir costos y tiempos de ejecución. Te acompañaremos en tu proceso de transformación digital aportando toda nuestra experiencia y valores corporativos, ofreciéndote consultoría funcional y estratégica.
+<br>
+<h2>🛠 Tecnologías </h2>
+- &nbsp; ReactJS
+- &nbsp; MySQL
+- &nbsp; HTML
+- &nbsp; Python
+- &nbsp; .NET
+- &nbsp; JavaScript
+- &nbsp; NodeJS
+- &nbsp; CSS
+- &nbsp; JAVA
+- &nbsp; AWS
+<br>
+<br>
+<h2>Conoce a nuestro equipo de trabajo 👨‍💻</h2>
 
 <h3> Hola 👋</h3> 
 <h2> Soy Carlos Alberto Herrera Ulibarri </h2>
@@ -84,7 +113,7 @@
 
 <h3> 👩‍🦱💻 Acerca de mi </h3>
 
-- 👩‍🦱 &nbsp; Trabajo en DELFOS369 me desempeño en el puesto de DESARROLLADOR FRON-END. 
+- 👩‍🦱 &nbsp; Trabajo en DELFOS369 me desempeño en el puesto de DESARROLLADOR FULL STACK. 
  
 - 🎓 &nbsp; Experiencia: JavaScript con experiencia en el desarrollo de aplicaciones web utilizando tecnologías como HTML, CSS y React.JS
 
