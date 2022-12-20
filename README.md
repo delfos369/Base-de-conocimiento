@@ -141,8 +141,6 @@ Desarrollamos soluciones que marcan la diferencia, eficientes, ágiles y modular
  
 - 🎓 &nbsp; Estudios: Ingeniería en Sistemas Inteligentes.
 
-- 🙌 &nbsp; Guía: "Si quieres ser bueno júntate con los buenos, pero si quieres ser el mejor júntate con los mejores"
-
 <h3>🛠 Tecnologías </h3>
 
 
